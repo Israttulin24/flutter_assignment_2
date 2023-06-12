@@ -1,16 +1,6 @@
 # myphotogallery
 
-A new Flutter project.
+#Output
+![app_part1](https://github.com/Israttulin24/flutter_assignment_2/assets/135654667/a915ce04-7e5b-468c-8eb4-e9bfa7ea4cb0)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app_part2](https://github.com/Israttulin24/flutter_assignment_2/assets/135654667/32fe1476-abcf-403d-b1c2-e1d05c277c73)
